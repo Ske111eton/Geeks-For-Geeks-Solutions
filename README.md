@@ -1,3 +1,5 @@
 # Geeks-For-Geeks-Solutions
-
-#----------- USING PRIORITY QUEUE ----------------#
+Have fun coding...
+Keep yourself motivated 
+EveryDay
+Even when you are failing to write good code, you are learning and that's what matter in the end...
